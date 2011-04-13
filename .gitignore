@@ -1,0 +1,7 @@
+/config/redis.conf
+/log/*.log
+/tmp/
+/tmp/**/*
+/dump.rdb
+capybara-*.html
+.DS_Store
